@@ -1,0 +1,18 @@
+.section {
+  background-color: tomato;
+  width: 100vw;
+  height: 100vh;
+}
+
+.section__list {
+  background-color: green;
+}
+
+.section__item {
+  width: 200px;
+  height: 200px;
+}
+
+.section__item {
+  background-color: teal;
+}/*# sourceMappingURL=main.css.map */
